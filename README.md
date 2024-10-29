@@ -1,5 +1,8 @@
 # XingHan-Team 官网程序
 
+<p align="center">  <a href="#contributing">    <img src="https://img.shields.io/badge/Robots-only-red.svg?style=flat-square" alt="Robots only">  </a>  <a href="https://github.com/cdnjs/cdnjs/blob/master/LICENSE">   <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square" alt="MIT License">  </a>  <a href="https://github.com/cdnjs/cdnjs/discussions">   <img src="https://img.shields.io/badge/GitHub-Discussions-brightgreen.svg?style=flat-square" alt="Discussions">  </a> </p> 
+ <p align="center">  <a href="https://github.com/cdnjs/packages/blob/master/README.md#donate-and-support-us">   <img src="https://img.shields.io/badge/GitHub-Sponsors-EA4AAA.svg?style=flat-square" alt="GitHub Sponsors">  </a>  <a href="https://opencollective.com/cdnjs">   <img src="https://img.shields.io/badge/Open%20Collective-Support%20Us-3385FF.svg?style=flat-square" alt="Open Collective">  </a>  <a href="https://www.patreon.com/cdnjs">   <img src="https://img.shields.io/badge/Patreon-Become%20a%20Patron-E95420.svg?style=flat-square" alt="Patreon">  </a> </p>
+
 #### 项目介绍
 XingHan-Team 官网程序是一个现代化的企业官网管理系统，由星涵网络工作室开发。本系统提供了完整的网站内容管理功能，包括用户管理、内容发布、成员查询、成员申请等功能。
 
