@@ -1,5 +1,6 @@
 # XingHan-Team 官网程序
-<img alt="Static Badge" src="https://img.shields.io/badge/%E6%98%9F%E6%B6%B5%E7%BD%91%E7%BB%9C-%E5%B7%A5%E4%BD%9C%E5%AE%A4?style=flat&logoColor=violet&logoSize=auto&label=%E5%AE%98%E7%BD%91&cacheSeconds=3600">
+<a href="https://www.ococn.cn">
+<img alt="Static Badge" src="https://img.shields.io/badge/%E6%98%9F%E6%B6%B5%E7%BD%91%E7%BB%9C-%E5%B7%A5%E4%BD%9C%E5%AE%A4?style=flat&logoColor=violet&logoSize=auto&label=%E5%AE%98%E7%BD%91&cacheSeconds=3600"></a>
 
 #### 项目介绍
 XingHan-Team 官网程序是一个现代化的企业官网管理系统，由星涵网络工作室开发。本系统提供了完整的网站内容管理功能，包括用户管理、内容发布、成员查询、成员申请等功能。
